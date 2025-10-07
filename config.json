@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "port": 12345,
+    "username": "Agent",
+    "version": "1.21",
+    "auth": "offline"
+}
